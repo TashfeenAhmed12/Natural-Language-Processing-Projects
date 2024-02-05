@@ -14,6 +14,6 @@ Our methodology combined data scraping, natural language processing (NLP), and s
 # Results and Insights
 
 Our analysis revealed BMW, Acura, Honda, Audi, and Infiniti as the top mentioned brands, highlighting diverse consumer preferences. BMW emerged as the most aspirational brand, highly associated with positive sentiments and desired qualities like performance and luxury. Subaru and Honda were identified for their distinct market positions, with Subaru valued for its niche appeal in safety and outdoor performance, and Honda recognized for its reliability and cost-efficiency. The analysis of car attributes—economy, experience, reputation, performance, and design—showed varying degrees of association with these brands, guiding strategic recommendations for brand positioning and marketing. Insights emphasized the importance of aligning product development and advertising strategies with consumer perceptions and desires
-Please view the full [report](
+Please view the full [report](https://github.com/TashfeenAhmed12/Natural-Language-Processing-Projects/blob/dc7699ea73fdd1adf61c12f1cc386cfe76066ab1/Understanding%20Car%20Brands/Report.pdf)
 
 
