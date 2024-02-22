@@ -8,7 +8,7 @@ The project undertaken here endeavors to predict job salaries from job descripti
 
 # Data Source and Description
 
-The data, retrieved from the "Job Salary Prediction" competition on Kaggle, consists of a diverse array of job listings compiled in "Train_rev1.csv". For manageability and efficiency, I randomly sampled 2500 data points from this dataset. These were then divided into training (80%) and testing (20%) subsets to facilitate the development and validation of the predictive model. Sampled dataset has equal proportion of High and Low salary to not introduce bias in model
+The data, retrieved from the ["Job Salary Prediction"](https://www.kaggle.com/c/job-salary-prediction) competition on Kaggle, consists of a diverse array of job listings compiled in "Train_rev1.csv". For manageability and efficiency, I randomly sampled 2500 data points from this dataset. These were then divided into training (80%) and testing (20%) subsets to facilitate the development and validation of the predictive model. Sampled dataset has equal proportion of High and Low salary to not introduce bias in model
 
 # Methodology
 
@@ -19,6 +19,7 @@ I initiated the process by implementing a series of preprocessing steps on the j
 The resulting model demonstrated a reasonable degree of accuracy in classifying the salary categories. A confusion matrix was generated to evaluate the performance further, and the model's precision was assessed. Through analysis, I identified the top ten words that were most indicative of high and low salaries, excluding common stopwords. These words provided clear insights into the attributes and skills associated with different salary levels
 
 **High Salary Unique Words:**
+
 Unique words associated with high salary jobs include "commercial", "design", "develop", "ensure", "finance", "financial", "lead", "manage", "project", "senior", "strong", and "system". These terms suggest a significant emphasis on roles that demand not only technical and design expertise but also a strong grasp of commercial and financial strategies. Words like "lead", "manage", and "senior" underscore leadership roles, indicating positions of authority and responsibility that likely involve guiding teams or projects towards success. "Develop", "design", and "system" reflect the innovation and technical skill required in these roles, highlighting a need for individuals capable of creating or improving systems, products, or processes. The presence of "financial" and "finance" points towards roles where financial oversight, investment acumen, or economic analysis plays a critical part
 
 **Low Salary Unique Words:**
