@@ -25,3 +25,7 @@ Unique words associated with high salary jobs include "commercial", "design", "d
 **Low Salary Unique Words:**
 
 For low salary jobs, unique words include "company", "customer", "excellent", "look", "must", "provide", "recruitment", "require", "school", "support", "teacher", and "year". This set leans heavily towards roles centered around support, customer service, and education. "Customer", "support", and "service" suggest positions focused on direct interaction with customers or clients, providing assistance and ensuring satisfaction. The inclusion of "school", "teacher", and "recruitment" highlights the educational and human resources sectors, indicating roles essential for organizational support and educational development but perhaps not as highly compensated as those requiring specialized technical or leadership skills. 
+
+- **Model Accuracy**: The Naive Bayes classifier achieved an accuracy of 80% on the test set.
+- **Confusion Matrix**:
+![image](https://github.com/user-attachments/assets/b10f5e4b-3b78-44b1-a068-cf24421ad215)
